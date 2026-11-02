@@ -1,9 +1,8 @@
-# React TypeScript Starter Pack
+# Todo App
 
-To use this template click `Use this template`
+A to-do list built with React + TypeScript and a REST API: add, edit,
+delete, All / Active / Completed filters, error handling.
 
-### Available Scripts
+**Stack:** React, TypeScript, Vite, Bulma, SCSS
 
-`Deploy` - available to deploy your application to gh-pages, to deploy the project, change the second line of code in package.json, specifically the homepage value, from "." to the repository name
-
-`SCSS Preprocessor` - available to write your styles with modern style language
+[DEMO LINK](https://royko7.github.io/To-Do-App/)
